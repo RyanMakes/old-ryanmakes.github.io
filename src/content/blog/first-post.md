@@ -48,3 +48,5 @@ Why does it have to be shit? It was really good literally a minute ago before it
 We are in it I guess. I enable GitHub Pages and Actions for Astro.
 
 lol, of course, a git error.
+
+We git pull, and try again to push.
