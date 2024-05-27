@@ -38,3 +38,11 @@ Every day, the world seems to ask me to compromise. My ideals, my sense of honou
 
 Honestly it really rather stings. "Feed the beast, everyone else is doing it. What's wrong with you?"
 How many hills can I die on?
+
+I reluctantly make the choice to live as others do and I make a github account and I use it to sign in to stackblitz
+
+Somehow, after signing in to save, I have been given some other web editor that is noticably more sluggish and it just feels bad oh my god why why why why
+
+Why does it have to be shit? It was really good literally a minute ago before it helpfully loaded the github-specific integrations that janked it up. COME ON!
+
+We are in it I guess. I enable GitHub Pages and Actions for Astro.
