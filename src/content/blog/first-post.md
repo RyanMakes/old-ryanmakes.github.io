@@ -50,3 +50,11 @@ We are in it I guess. I enable GitHub Pages and Actions for Astro.
 lol, of course, a git error.
 
 We git pull, and try again to push.
+
+Okay, Pages published SOMETHING, but the links are all broken because of baked in wrong assumptions. On the prime example with the default plugins.
+
+https://ryanmakes.github.io/ryanmakes-website-stackblitz/blog/first-post/ At least it seems to be exist-y.
+
+Asset paths are broken too. This wants to be deployed under more specific circumstances... I think I need to rename it to give it some special extra github juicing? I have a memory of something like that.
+
+Yeah, gotta rename it ryanmakes.github.io (the repo name)
