@@ -46,3 +46,5 @@ Somehow, after signing in to save, I have been given some other web editor that 
 Why does it have to be shit? It was really good literally a minute ago before it helpfully loaded the github-specific integrations that janked it up. COME ON!
 
 We are in it I guess. I enable GitHub Pages and Actions for Astro.
+
+lol, of course, a git error.
