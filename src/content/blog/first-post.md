@@ -58,3 +58,8 @@ https://ryanmakes.github.io/ryanmakes-website-stackblitz/blog/first-post/ At lea
 Asset paths are broken too. This wants to be deployed under more specific circumstances... I think I need to rename it to give it some special extra github juicing? I have a memory of something like that.
 
 Yeah, gotta rename it ryanmakes.github.io (the repo name)
+
+
+Okay, upon reloading everything, https://ryanmakes.github.io/blog/first-post/ is working right enough, and I guess I can use these credentials to make my bug report. God help me. 
+
+Actually, it seems like it's time for my weekly meetup. We'll see if I come back to this jank later.
