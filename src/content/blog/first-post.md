@@ -123,6 +123,11 @@ Still snappy as ever! The extra github jank REALLY weighs this thing down.
 StackBlitz is COMPLICATED and there is a lot going on. Getting the dates to render here correctly may matter a little less than it is worth to fix, knowing that it static renders correctly coming out of github pages actions, but
 
 its not right
+
 and accepting this bullshit
+
 just primes accepting more and more and more fucking stupid broken goddamned bullshit.
+
+
+It looks like some uncommitted changes unsaved are still persisted beyond the tab being closed and opened again - localstorage, or cloud trickery?
 
