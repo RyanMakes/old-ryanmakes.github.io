@@ -63,3 +63,19 @@ Yeah, gotta rename it ryanmakes.github.io (the repo name)
 Okay, upon reloading everything, https://ryanmakes.github.io/blog/first-post/ is working right enough, and I guess I can use these credentials to make my bug report. God help me. 
 
 Actually, it seems like it's time for my weekly meetup. We'll see if I come back to this jank later.
+
+---
+
+We return from dinner, with a request that we supply an RSS feed 'with full content'. Let's see what we can do. 
+
+We see from https://docs.astro.build/en/guides/rss/ this guide that RSS is available but not installed and turned on by default.
+
+Uhhh wait, it's already here? https://ryanmakes.github.io/rss.xml ? Maybe it's included because I started from the 'blog' example.
+
+Digging further is even more confusing. There's a lot of fancy modern and contemporary magic stuffed into Astro that's likely going to become a series of distractions from writing.
+
+Hopefully, I can keep the content itself portable and relatively publishing-tech-agnostic.
+
+The date problem seems to be z.coerce.date() which seems to be zod.js
+
+The in-browser environment has become painfully slow. I'm going to commit and restart the browser I guess?
