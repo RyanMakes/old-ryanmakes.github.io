@@ -79,3 +79,23 @@ Hopefully, I can keep the content itself portable and relatively publishing-tech
 The date problem seems to be z.coerce.date() which seems to be zod.js
 
 The in-browser environment has become painfully slow. I'm going to commit and restart the browser I guess?
+
+I found the source of the problem with the date strings.
+Using https://npm.runkit.com/zod and this minimal reproduction code:
+
+```
+var zod = require("zod")
+
+var schema = zod.coerce.date();
+
+console.log( schema.parse("2024 05 27") )
+console.log( schema.parse("2024-05-27") )
+```
+
+The output is 
+```
+Mon May 27 2024 00:00:00 GMT-0400 (Eastern Daylight Time)
+Sun May 26 2024 20:00:00 GMT-0400 (Eastern Daylight Time)
+```
+
+I'm reporting to Astro and Zod Discord communities and seeing what happens.
