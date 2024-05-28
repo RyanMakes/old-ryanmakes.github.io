@@ -107,3 +107,22 @@ The end is that YYYY-MM-DD with dashes is 'the standard' and (although it is not
 We have changed the frontmatter for this post to include dashes, and we're going to hit commit to publish and find out what happens.
 
 Godspeed to us all.
+
+Oh no wait fuck becuase it still displays fucking wrong in StackBlitz where I'm trying to do my fucking live authoring. How do I set the timezone here to UTC? 
+
+This adventure has wearied me deeply. Trying to get a fucking answer from the guys trying to help me on Discord is maddening. "The date being wrong isn't a bug - your perception of the nature of time is wrong." is surely a way to respond to a bug report I had not considered before. 
+
+Not like they didn't... shed some light... but holy fuck and jesus christ there is no way!
+
+Configuring the TimeZone in StackBlitz, and first understanding What Is StackBlitz, and then setting it to UTC, to match GitHub Actions (where it is an unconfigured default) will end this arc for me and release my soul from this pain.
+
+Investigating this caused me to open another tab for the original example linked from astro.new
+and!
+Still snappy as ever! The extra github jank REALLY weighs this thing down.
+
+StackBlitz is COMPLICATED and there is a lot going on. Getting the dates to render here correctly may matter a little less than it is worth to fix, knowing that it static renders correctly coming out of github pages actions, but
+
+its not right
+and accepting this bullshit
+just primes accepting more and more and more fucking stupid broken goddamned bullshit.
+
