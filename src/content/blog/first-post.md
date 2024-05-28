@@ -1,7 +1,7 @@
 ---
 title: 'Another Blog, Another First post'
 description: 'Starting blogs can be fun'
-pubDate: '2024 05 27'
+pubDate: '2024-05-27'
 heroImage: '/blog-placeholder-3.jpg'
 ---
 
@@ -99,3 +99,11 @@ Sun May 26 2024 20:00:00 GMT-0400 (Eastern Daylight Time)
 ```
 
 I'm reporting to Astro and Zod Discord communities and seeing what happens.
+
+---
+
+A very frustrating experience that was, dear lord. I will spare you the details.
+The end is that YYYY-MM-DD with dashes is 'the standard' and (although it is not explicitly set) UTC is the default time for this github action setup.
+We have changed the frontmatter for this post to include dashes, and we're going to hit commit to publish and find out what happens.
+
+Godspeed to us all.
