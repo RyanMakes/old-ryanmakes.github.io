@@ -131,3 +131,12 @@ just primes accepting more and more and more fucking stupid broken goddamned bul
 
 It looks like some uncommitted changes unsaved are still persisted beyond the tab being closed and opened again - localstorage, or cloud trickery?
 
+XXXXX
+
+The StackBlitz setup got jankier, then simply stopped working - on commit it would say git failed. I'm typing this in github's web editor.
+
+It looks like maybe if I can use the non-cursed version of stackblitz, maybe with sourcehut, that could be okay. Something to try out later.
+
+
+It's well past two in the morning so I think that's enough of this little AstroJank blogging adventure for today.
+
